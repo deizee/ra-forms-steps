@@ -17,7 +17,7 @@ const TrainingForm = (props) => {
                 <label className="Dist-Label" htmlFor="dist">Пройдено км</label>
                 <input type="number" className="Dist-Input" id="dist" name="dist" required />
             </div>
-            <button className="Ok-Button">Ok</button>
+            <button className="Ok-Button">Добавить</button>
         </form>
     )
 }
